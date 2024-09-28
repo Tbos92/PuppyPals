@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+p:hover {
+  color: rgb(72, 255, 0);
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+ul {
+  font-size: larger;
+  font-style: italic;
+  list-style-type: none;
+}
+.email {
+  text-decoration: underline;
+  color: rgb(106, 106, 248);
+}
+.email:hover {
+  cursor: pointer;
+}
